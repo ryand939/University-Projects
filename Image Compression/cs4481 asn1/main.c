@@ -397,8 +397,8 @@ void generatePPM(int height, int width, const char *fname, int fcode)
     /*****
      *
      *  I am only just realizing now that libpnm.h has many functions that could have made
-     *  my life much easier while completing this assignment. I knew I had to use it, but
-     *  I thought it was only for program-3.
+     *  my life much easier while completing this assignment. 
+     *  Should have read instructions closer but also seems to work!
      *
      *******/
 
